@@ -1,0 +1,317 @@
+.viewusers{
+	display: none;
+}
+
+.addusers{
+	display: none;
+}
+
+.deleteusers{
+	display: none;
+}
+
+.editusers{
+	display: none;
+}
+
+
+/* roles  */
+
+
+.addroles{
+	display: none;
+}
+
+.editroles{
+	display: none;
+}
+
+.viewroles{
+	display: none;
+}
+
+.deleteroles{
+	display: none;
+}
+
+
+/* currency  */
+
+
+.addcurrency{
+	display: none;
+}
+
+.editcurrency{
+	display: none;
+}
+
+.viewcurrency{
+	display: none;
+}
+
+.deletecurrency{
+	display: none;
+}
+
+/* department/role  */
+
+
+.adddepartment{
+	display: none;
+}
+
+.editdepartment{
+	display: none;
+}
+
+.viewdepartment{
+	display: none;
+}
+
+.deletedepartment{
+	display: none;
+}
+
+/* agent  */
+
+
+.addagent{
+	display: none;
+}
+
+.editagent{
+	display: none;
+}
+
+.viewagent{
+	display: none;
+}
+
+.deleteagent{
+	display: none;
+}
+
+/* agentplayers  */
+
+
+.addagentplayers{
+	display: none;
+}
+
+.editagentplayers{
+	display: none;
+}
+
+.viewagentplayers{
+	display: none;
+}
+
+.deleteagentplayers{
+	display: none;
+}
+
+/* banks  */
+
+.addbanks{
+	display: none;
+}
+
+.editbanks{
+	display: none;
+}
+
+.viewbanks{
+	display: none;
+}
+
+.deletebanks{
+	display: none;
+}
+
+/* viewoperationhistory  */
+
+.addoperationhistory{
+	display: none;
+}
+
+.editoperationhistory{
+	display: none;
+}
+
+.viewoperationhistory{
+	display: none;
+}
+
+.deleteoperationhistory{
+	display: none;
+}
+
+/* addoperations  */
+
+.addoperations{
+	display: none;
+}
+
+.editoperations{
+	display: none;
+}
+
+.viewoperations{
+	display: none;
+}
+
+.deleteoperations{
+	display: none;
+}
+
+/* addagentbetroles  */
+
+.addagentbetroles{
+	display: none;
+}
+
+.editagentbetroles{
+	display: none;
+}
+
+.viewagentbetroles{
+	display: none;
+}
+
+.deleteagentbetroles{
+	display: none;
+}
+
+/* addagentdeposit  */
+
+.addagentdeposit{
+	display: none;
+}
+
+.editagentdeposit{
+	display: none;
+}
+
+.viewagentdeposit{
+	display: none;
+}
+
+.deleteagentdeposit{
+	display: none;
+}
+
+/* addagentwithdraw  */
+
+.addagentwithdraw{
+	display: none;
+}
+
+.editagentwithdraw{
+	display: none;
+}
+
+.viewagentwithdraw{
+	display: none;
+}
+
+.deleteagentwithdraw{
+	display: none;
+}
+
+/* addagentwithdraw  */
+
+.addbankingrequest{
+	display: none;
+}
+
+.editbankingrequest{
+	display: none;
+}
+
+.viewbankingrequest{
+	display: none;
+}
+
+.deletebankingrequest{
+	display: none;
+}
+
+/* #addagentwithdraw  */
+
+.addbankinghistory{
+	display: none;
+}
+
+.editbankinghistory{
+	display: none;
+}
+
+.viewbankinghistory{
+	display: none;
+}
+
+.deletebankhistory{
+	display: none;
+}
+
+
+.bankingmenu{
+	display: none;
+}
+
+.systemsettingmenu{
+	display: none;
+}
+
+.reports{
+	display: none;
+}
+
+.addsitereports{
+	display: none;
+}
+
+.editsitereports{
+	display: none;
+}
+
+.viewsitereports{
+	display: none;
+}
+
+.deletesitereports{
+	display: none;
+}
+
+.addnews{
+	display: none;
+}
+
+.editnews{
+	display: none;
+}
+
+.viewnews{
+	display: none;
+}
+
+.deletenews{
+	display: none;
+}
+
+.viewtransactionhistory{
+	display: none;
+}
+
+.addtransactionhistory{
+	display: none;
+}
+
+.deletetransactionhistory{
+	display: none;
+}
+
+.edittransactionhistory{
+	display: none;
+}
